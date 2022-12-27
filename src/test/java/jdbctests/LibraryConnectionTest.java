@@ -3,7 +3,7 @@ package jdbctests;public class LibraryConnectionTest {
 
     @Test
     public void test1() throws SQLException {
-        String dbURL = "jdbc:mysql://54.175.31.71:3306/library1/";
+        String dbURL = "jdbc:mysql://175.31.71:3306/library1/";
         String dbUsername = "library1_client";
         String dbPassword = "WVF4NdGXCKHeE6VQ";
 
