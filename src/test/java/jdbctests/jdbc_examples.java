@@ -1,6 +1,6 @@
 package jdbctests;public class jdbc_examples {
   
-    String dbURL = "jdbc:oracle:thin:@54.175.31.71:1521:XE";
+    String dbURL = "jdbc:oracle:thin:@175.31.71:1521:XE";
     String dbUsername = "hr";
     String dbPassword = "hr";
 
