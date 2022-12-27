@@ -2,7 +2,7 @@ package jdbctests;public class TestConnection {
   
 
     public static void main(String[] args) throws SQLException {
-        String dbURL = "jdbc:oracle:thin:@54.175.31.71:1521:XE";
+        String dbURL = "jdbc:oracle:thin:@.175.31.71:1521:XE";
         String dbUsername = "hr";
         String dbPassword = "hr";
 
